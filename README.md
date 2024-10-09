@@ -41,6 +41,12 @@ Follow these steps to set up the AIVY platform on your local machine:
    npm install
    npm run dev
 
+# demo video
+
+
+https://github.com/user-attachments/assets/4f370448-b1ed-462b-a38a-d51a08d64727
+
+
 ## Contact
 
 For more information, questions, or support, feel free to reach out to us via:
